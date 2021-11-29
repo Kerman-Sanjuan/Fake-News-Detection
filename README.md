@@ -7,3 +7,5 @@ Estos son los ficheros relevantes:
 
 En caso de querer obtener todos los datos, descargar el comprimido del siguiente link y descomprimir en la carpeta raiz de este repositorio:
 https://mega.nz/file/NFMjmYpB#h_cEt7yLn0sQhU64wIRvZ_ZY4ruitimnBx5tPfpI1vs
+
+PD: Por alguna razon la preview de los notebook no funciona de forma correcta, por tanto es necesario descargarlo y verlo de forma local :)
